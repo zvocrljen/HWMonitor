@@ -1,0 +1,11 @@
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\bin\Debug\HardwareMonitorService.exe.config
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\bin\Debug\HardwareMonitorService.exe
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\bin\Debug\HardwareMonitorService.pdb
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.csproj.AssemblyReference.cache
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.HardwareMonitorService.resources
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.csproj.GenerateResource.cache
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.csproj.CoreCompileInputs.cache
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.csproj.CopyComplete
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.exe
+C:\Users\zcrljenko\source\repos\HardwareMonitorService\obj\Debug\HardwareMonitorService.pdb
